@@ -35,7 +35,7 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,docker,git,qt,tensorflow,pytorch,linux" />
+  <img src="https://[skillicons.dev/icons?i=python,cpp,docker,git,qt,tensorflow,pytorch,linux](https://skillicons.dev/icons?i=python,cpp,docker,git,tensorflow,pytorch,linux,mysql,fastapi,kafka)" />
 </p>
 
 ---
