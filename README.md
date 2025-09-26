@@ -32,41 +32,30 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abolmw4&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolmw4&layout=compact&theme=radical" />
-</div>
-
-## 🚀 Featured Projects
-
-### [Project 1 Name](https://github.com/Abolmw4/your-project-1)
-Short description of what this project does and what technologies you used.
-
-### [Project 2 Name](https://github.com/Abolmw4/your-project-2)
-Brief explanation of the project's purpose and key features.
-
-### [Project 3 Name](https://github.com/Abolmw4/your-project-3)
-What problem does this solve and what did you learn while building it?
-
-## 🌱 Currently Learning
-
-- Advanced JavaScript concepts
-- React frameworks
-- Backend development
-- Database management
-
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-## 💻 Coding Activity
-
-<!-- This will show your coding streak and activity graph -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abolmw4&theme=radical)
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,docker,git,qt,tensorflow,pytorch,linux" />
+</p>
 
 ---
 
-⭐ *From [Abolmw4](https://github.com/Abolmw4)*
+## 🚀 Featured Projects
+🌟 [YOLOv12-SR](https://github.com/yourusername/yolov12-sr) – Custom YOLOv12 with SuperResolution for small object detection  
+⚙️ [C++ AI Utils](https://github.com/yourusername/cpp-ai-utils) – Helpful C++ utilities for AI/ML workflows  
+📦 [Dockerized ML Env](https://github.com/yourusername/docker-ml-env) – Preconfigured Docker setup for ML research  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+## ✨ Fun Stuff
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Computer+Vision;C%2B%2B+%26+Python+Developer;Always+Learning+%26+Building+🚀" />
+</p>
