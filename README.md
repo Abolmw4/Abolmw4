@@ -1,6 +1,6 @@
 # Hello, I'm Abolfazl! 👋
 
-### AI Developer & Backend Developer
+### AI & Backend Developer
 
 I'm passionate about creating web applications and continuously learning new technologies. I enjoy turning ideas into code and solving real-world problems through programming.
 
