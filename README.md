@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https:<img width="1536" height="1024" alt="myprofile" src="https://github.com/user-attachments/assets/5012161c-ea30-4fa7-9018-d88c207a0b47" />
+  <img src="https://github.com/user-attachments/assets/5012161c-ea30-4fa7-9018-d88c207a0b47" alt="myprofile" width="100%" />
 </p>
 # Hi there 👋, I'm Abolfazl
 
