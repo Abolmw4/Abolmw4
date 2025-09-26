@@ -9,7 +9,7 @@
 - 🧩 2+ years experience in **AI & Computer Vision**  
 - 🐳 Skilled in **Docker, C++, Python, QtCreator, Git**  
 - 🌱 Always learning and exploring **state-of-the-art AI**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](a.asghari251@gmail.com)  
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:a.asghari251@gmail.com)  
 
 ---
 
