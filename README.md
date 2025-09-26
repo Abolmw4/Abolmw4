@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="AI Engineer | Computer Vision & Backend Developer" />
+  <img src="https:<img width="1536" height="1024" alt="myprofile" src="https://github.com/user-attachments/assets/5012161c-ea30-4fa7-9018-d88c207a0b47" />
 </p>
 # Hi there 👋, I'm Abolfazl
 
