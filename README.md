@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="AI Engineer | Computer Vision & Backend Developer" />
+</p>
 # Hi there 👋, I'm Abolfazl
 
 💻 **AI Engineer | Computer Vision & Deep Learning | C++ & Python Developer**  
