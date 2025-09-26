@@ -1,8 +1,17 @@
-# Hello, I'm Abolfazl! 👋
+# Hi there 👋, I'm Abolfazl
 
-### AI & Backend Developer
+💻 **AI Engineer | Computer Vision & Deep Learning | C++ & Python Developer**  
+🚀 Passionate about building real-world AI systems and efficient ML pipelines  
 
-I'm passionate about creating web applications and continuously learning new technologies. I enjoy turning ideas into code and solving real-world problems through programming.
+---
+## 🧑‍💻 About Me
+- 🔭 Currently working on **YOLOv12-based small object detection with SuperResolution**  
+- 🧩 2+ years experience in **AI & Computer Vision**  
+- 🐳 Skilled in **Docker, C++, Python![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), Qt, Git**  
+- 🌱 Always learning and exploring **state-of-the-art AI**  
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)  
+
+---
 
 ## 🛠️ Technologies & Tools
 
